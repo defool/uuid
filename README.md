@@ -4,9 +4,9 @@ A nice uuid implementation.
 ## Features
 
 - Short(18 bytes)
-- Letter+number only(double-click to copy).
-- Auto increment.
-- High performance.
+- Letter+number only(double-click to copy)
+- Auto increment
+- High performance
 - Unique but don't rely on random algorithm(max qps 238328 per-process)
 
 
